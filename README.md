@@ -1,4 +1,9 @@
 # Awesome Games Master
+<div align="center">
+  <img src="./images/Dungeon-Master.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
+  <br />
+  <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
+</div>
 
 > Useful resources for running table-top role playing games
 
@@ -28,7 +33,7 @@
 - [MapTool](https://www.rptools.net/toolbox/maptool/) - An advanced open source tool for running games with advanced vision blocking and macro support.
 - [FoundryVTT](https://foundryvtt.com/) - A modern role playing platform with a large community and developer base and integrates with many other tools.
 - [Fantasy Grounds](http://www.fantasygrounds.com/home/home.php) - A role playing platform with support for many systems.
-- [Owlbear Rodeo](https://www.owlbear.rodeo/) - A very simple browser based platform that is easy to pick up and requires minimal setup.
+- [Owlbear Rodeo](https://www.owlbear.rodeo/) - A very simple browser based platform that is easy to pick up and requires minimal setup. [![Patreon](/images/small_patreon.png)](https://www.patreon.com/owlbearrodeo)
 - [Roll20](https://roll20.net/) - A popular role playing platform with lots of documentation.
 - [Mythic table](https://www.mythictable.com/) - Still in development open source platform.
 - [Astral Tabletop](https://www.astraltabletop.com/) - An online platform with built in maps and assets.
