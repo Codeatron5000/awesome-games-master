@@ -13,8 +13,16 @@
 
 
 ## World building
+- [Wonderdraft](https://www.wonderdraft.net/)
+- [Inkarnate](https://inkarnate.com/)
+- [World Anvil](https://www.worldanvil.com/)
+- [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html)
 
 ## Battle maps
+- [Dungeondraft](https://dungeondraft.net/)
+- [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
+- [Dungeon scrawl](https://dungeonscrawl.com/)
+- [Token maker](https://rolladvantage.com/tokenstamp/)
 
 ## Running the game
 - [MapTool](https://www.rptools.net/toolbox/maptool/) - An advanced open source tool for running games with advanced vision blocking and macro support.
@@ -25,7 +33,12 @@
 - [Mythic table](https://www.mythictable.com/) - Still in development open source platform.
 - [Astral Tabletop](https://www.astraltabletop.com/) - An online platform with built in maps and assets.
 
+- [The monsters know](https://www.themonstersknow.com/)
+
 ## References
+- [Cartography Assets](http://cartographyassets.com/)
+- [Dialects archive](https://www.dialectsarchive.com/)
+- [Character art](https://www.pinterest.co.uk/efilean/)
 
 ## Random generators
 - [Watabou](https://watabou.itch.io) - Home of many procedural generators.
@@ -33,7 +46,7 @@
   * [Village generator](https://watabou.itch.io/village-generator) - Simple village generator.
 - [Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Open source world map generator with a lot of customization.
 - [Town generator](https://eigengrausgenerator.com/) - A generator for town buildings and characters with narration.
-- [DnD 5e /Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
+- [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
 - [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
 
 ## Organisation
