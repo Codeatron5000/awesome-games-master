@@ -12,9 +12,10 @@
 * [Battle maps](#battle-maps)
 * [Running the game](#running-the-game)
 * [References](#references)
-* [Random generators](#random-generators)
 * [Organisation](#organisation)
 * [Tutorials](#tutorials)
+* [Blogs](#blogs)
+* [YouTube](#youtube)
 
 
 ## World building
@@ -22,12 +23,25 @@
 - [Inkarnate](https://inkarnate.com/)
 - [World Anvil](https://www.worldanvil.com/)
 - [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html)
+- [Watabou](https://watabou.itch.io) [![Patreon](/images/small_patreon.png)](https://www.patreon.com/watawatabou) - Home of many procedural generators.
+  * [Medieval fantasy city generator](https://watabou.itch.io/medieval-fantasy-city-generator) - City generator with several customization options.
+  * [Village generator](https://watabou.itch.io/village-generator) - Simple village generator.
+- [Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Open source world map generator with a lot of customization.
+- [Town generator](https://eigengrausgenerator.com/) - A generator for town buildings and characters with narration.
+- [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
+- [Tectonics](http://www.illwinter.com/floorplan/)
+- [Fractal world generator](http://www.illwinter.com/floorplan/)
+- [Hextml](http://hextml.playest.net/)
+- [Hexographer](https://www.hexographer.com/)
 
-## Battle maps
+## Battle maps / Dungeons
 - [Dungeondraft](https://dungeondraft.net/)
 - [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
 - [Dungeon scrawl](https://dungeonscrawl.com/)
+- [MapForge](https://www.mapforge-software.com/screenshots/)
+- [Illwinter's Floorplan generator](http://www.illwinter.com/floorplan/)
 - [Token maker](https://rolladvantage.com/tokenstamp/)
+- [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
 
 ## Running the game
 - [MapTool](https://www.rptools.net/toolbox/maptool/) - An advanced open source tool for running games with advanced vision blocking and macro support.
@@ -38,22 +52,26 @@
 - [Mythic table](https://www.mythictable.com/) - Still in development open source platform.
 - [Astral Tabletop](https://www.astraltabletop.com/) - An online platform with built in maps and assets.
 
-- [The monsters know](https://www.themonstersknow.com/)
+- [Kobold fight club](https://kobold.club/fight/#/encounter-builder)
+- [Improved initiative](https://www.improved-initiative.com/)
+- [DnD Beyond](https://www.dndbeyond.com/)
 
 ## References
 - [Cartography Assets](http://cartographyassets.com/)
 - [Dialects archive](https://www.dialectsarchive.com/)
 - [Character art](https://www.pinterest.co.uk/efilean/)
 
-## Random generators
-- [Watabou](https://watabou.itch.io) [![Patreon](/images/small_patreon.png)](https://www.patreon.com/watawatabou) - Home of many procedural generators.
-  * [Medieval fantasy city generator](https://watabou.itch.io/medieval-fantasy-city-generator) - City generator with several customization options.
-  * [Village generator](https://watabou.itch.io/village-generator) - Simple village generator.
-- [Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Open source world map generator with a lot of customization.
-- [Town generator](https://eigengrausgenerator.com/) - A generator for town buildings and characters with narration.
-- [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
-- [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
-
 ## Organisation
+- [Fantasy card generator](https://crobi.github.io/rpg-cards/generator/generate.html)
 
 ## Tutorials
+
+## Blogs
+- [Last gasp grimoire](https://www.lastgaspgrimoire.com/about/)
+- [Something's D&D Blog](https://somethingdnd.tumblr.com/)
+- [The monsters know](https://www.themonstersknow.com/)
+- [Sly Flourish](https://slyflourish.com/)
+
+## YouTube
+- [WASD20](https://www.youtube.com/channel/UCQOmmyopiTzH9dlThm8hbwQ)
+- [Matthew Colville](https://www.youtube.com/user/mcolville)
