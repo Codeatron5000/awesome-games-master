@@ -13,7 +13,6 @@
 * [Running the game](#running-the-game)
 * [References](#references)
 * [Organisation](#organisation)
-* [Tutorials](#tutorials)
 * [Blogs](#blogs)
 * [YouTube](#youtube)
 
@@ -30,7 +29,8 @@
 - [Town generator](https://eigengrausgenerator.com/) - A generator for town buildings and characters with narration.
 - [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
 - [Tectonics](http://www.illwinter.com/floorplan/)
-- [Fractal world generator](http://www.illwinter.com/floorplan/)
+- [donjon random generators](http://donjon.bin.sh/)
+- [5e magic shop generator](https://5emagic.shop/generate)
 - [Hextml](http://hextml.playest.net/)
 - [Hexographer](https://www.hexographer.com/)
 
@@ -64,14 +64,10 @@
 ## Organisation
 - [Fantasy card generator](https://crobi.github.io/rpg-cards/generator/generate.html)
 
-## Tutorials
-
 ## Blogs
-- [Last gasp grimoire](https://www.lastgaspgrimoire.com/about/)
-- [Something's D&D Blog](https://somethingdnd.tumblr.com/)
 - [The monsters know](https://www.themonstersknow.com/)
 - [Sly Flourish](https://slyflourish.com/)
 
 ## YouTube
 - [WASD20](https://www.youtube.com/channel/UCQOmmyopiTzH9dlThm8hbwQ)
-- [Matthew Colville](https://www.youtube.com/user/mcolville)
+- [Matthew Colville's Running the game](https://www.youtube.com/user/mcolville)
