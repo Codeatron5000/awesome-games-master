@@ -34,7 +34,7 @@
 - [Hextml](http://hextml.playest.net/)
 - [Hexographer](https://www.hexographer.com/)
 
-## Battle maps / Dungeons
+## Battle/encounter maps
 - [Dungeondraft](https://dungeondraft.net/)
 - [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
 - [Dungeon scrawl](https://dungeonscrawl.com/)
@@ -60,8 +60,10 @@
 - [Cartography Assets](http://cartographyassets.com/)
 - [Dialects archive](https://www.dialectsarchive.com/)
 - [Character art](https://www.pinterest.co.uk/efilean/)
+- [Fantasy art](https://www.pinterest.co.uk/FantasyPicsInc/pathfinder-dd-dnd-35-5e-5th-ed-fantasy-d20-pfrpg-r/)
+- [Reddit character art](https://www.reddit.com/r/characterdrawing)
 
-## Organisation
+# Organisation
 - [Fantasy card generator](https://crobi.github.io/rpg-cards/generator/generate.html)
 
 ## Blogs
