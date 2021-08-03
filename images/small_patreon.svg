@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16.589657"
-   height="16.002001"
+   width="14.548406"
+   height="13.999999"
    id="svg8926"
    version="1.1"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
@@ -24,22 +24,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1361328"
-     inkscape:cx="-129.38628"
-     inkscape:cy="14.082861"
+     inkscape:zoom="102.831"
+     inkscape:cx="4.4004239"
+     inkscape:cy="7.0698523"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-left="0.5"
-     fit-margin-bottom="0.5"
-     fit-margin-top="0.5"
-     fit-margin-right="0.5"
+     fit-margin-left="0"
+     fit-margin-bottom="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
      inkscape:window-width="3774"
      inkscape:window-height="2088"
      inkscape:window-x="30"
      inkscape:window-y="56"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     lock-margins="true" />
   <metadata
      id="metadata8931">
     <rdf:RDF>
@@ -55,11 +56,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-2028.5597,746.82419)">
+     transform="translate(-2029.5803,745.82319)">
     <g
        style="fill:#f96854;fill-opacity:1;stroke:none"
        id="g5537"
-       transform="matrix(0.02748626,0,0,0.02748626,2029.0597,-746.32419)">
+       transform="matrix(0.02565042,0,0,0.02565042,2029.5803,-745.82319)">
       <path
          style="fill-rule:nonzero"
          inkscape:connector-curvature="0"
@@ -70,7 +71,7 @@
     <g
        style="fill:#052d49;fill-opacity:1;stroke:none"
        id="g5543"
-       transform="matrix(0.02748626,0,0,0.02748626,2029.0597,-746.32419)">
+       transform="matrix(0.02565042,0,0,0.02565042,2029.5803,-745.82319)">
       <path
          style="fill-rule:evenodd"
          inkscape:connector-curvature="0"
