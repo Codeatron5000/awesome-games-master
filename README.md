@@ -20,12 +20,12 @@ Icon|Meaning
 
 ## Contents
 * [World building](#world-building)
-  * [Generating / creating maps](#generating-and-creating-maps)
+  * [Generating / creating maps](#generating--creating-maps)
   * [Generating shops / towns / characters](#generating-shops--towns--characters)
   * [Utilities](#utilities)
 * [Battle / encounter maps](#battle--encounter-maps)
 * [Running the game](#running-the-game)
-  * [Remote Play](#remote-play)
+  * [Remote play](#remote-play)
   * [Encounter planning / running](#encounter-planning--running)
 
 
