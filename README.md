@@ -7,6 +7,11 @@
 
 > Useful resources for running table-top role playing games
 
+### Key of icons in this list
+- :moneybag: A paid product
+- :money_with_wings: A freemium model
+- ![patreon][images/small_patreon.svg] The creator has a patreon page
+
 ## Contents
 * [World building](#world-building)
 * [Battle maps](#battle-maps)
@@ -18,30 +23,33 @@
 
 
 ## World building
-- [Wonderdraft](https://www.wonderdraft.net/)
-- [Inkarnate](https://inkarnate.com/)
-- [World Anvil](https://www.worldanvil.com/)
-- [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html)
+### Generating / Creating maps
+- [Wonderdraft](https://www.wonderdraft.net/) :moneybag: - A world map maker with customisable assets
+- [Inkarnate](https://inkarnate.com/) :money_with_wings: - A world map maker with a large library of assets and many features
 - [Watabou](https://watabou.itch.io) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/watawatabou) - Home of many procedural generators.
   * [Medieval fantasy city generator](https://watabou.itch.io/medieval-fantasy-city-generator) - City generator with several customization options.
   * [Village generator](https://watabou.itch.io/village-generator) - Simple village generator.
-- [Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Open source world map generator with a lot of customization.
-- [Town generator](https://eigengrausgenerator.com/) - A generator for town buildings and characters with narration.
-- [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of stores based on city size.
-- [Tectonics](http://www.illwinter.com/floorplan/)
-- [donjon random generators](http://donjon.bin.sh/)
-- [5e magic shop generator](https://5emagic.shop/generate)
-- [Hextml](http://hextml.playest.net/)
-- [Hexographer](https://www.hexographer.com/)
+- [Azgaar's Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/azgaar) - Open source world map generator with a lot of customization.
+- [Hextml](http://hextml.playest.net/) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/playest) - A hex based relief map/dungeon maker with collaborative tools
+
+### Generating shops / towns / characters
+- [Town generator](https://eigengrausgenerator.com/) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/join/eigengrausgenerator) - A generator for town buildings and characters with narration.
+- [DnD 5e / Coriolis store generator](http://dndstores.azurewebsites.net/index.html) - Generates the stock and prices of various stores based on city size.
+- [donjon random generators](http://donjon.bin.sh/) - Generators for all sorts including landmass, names, dungeons, calendars, shops, etc.
+- [5e magic shop generator](https://5emagic.shop/generate) [![Patreon](/images/small_patreon.svg)](https://5emagic.shop/generate) - Generates stock for magic shops with opinionated pricing. Also includes other tools such as travel time calculator and teleportation circle generator.
+- [Token maker](https://rolladvantage.com/tokenstamp/)
+
+### Utilities
+- [World Anvil](https://www.worldanvil.com/) :money_with_wings: - A tool for managing your world and keeping track of things in your campaign.
+- [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html) - A DnD custom monster stat block generator in the style of the source books.
+- [Character generator](https://tetra-cube.com/dnd/dnd-char-gen.html) - Generates random DnD 5e characters from the options in the sourcebooks with character art.
+- [Fantasy card generator](https://crobi.github.io/rpg-cards) - A tool for generating printable cards in easy to read formats for spells, monster stats, etc.
 
 ## Battle/encounter maps
-- [Dungeondraft](https://dungeondraft.net/)
-- [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
-- [Dungeon scrawl](https://dungeonscrawl.com/)
-- [MapForge](https://www.mapforge-software.com/screenshots/)
-- [Illwinter's Floorplan generator](http://www.illwinter.com/floorplan/)
-- [Token maker](https://rolladvantage.com/tokenstamp/)
-- [Dungeon generator](https://dungen.app/dungen/) - Generates random dungeons with some customization.
+- [Dungeondraft](https://dungeondraft.net/) :moneybag: - A dungeon / encounter builder with customisable assets
+- [Dungeon generator](https://dungen.app/dungen/) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/DungeonChannel) - Generates random dungeons with some customization.
+- [Dungeon scrawl](https://dungeonscrawl.com/) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/bePatron?u=35362025) - Easy to use tool for building simple maps
+- [MapForge](https://www.mapforge-software.com) [![Patreon](/images/small_patreon.svg)](https://www.patreon.com/heruca) :moneybag: - Software for creating dungeons with lots of add-ons and other assets
 
 ## Running the game
 - [MapTool](https://www.rptools.net/toolbox/maptool/) - An advanced open source tool for running games with advanced vision blocking and macro support.
@@ -63,13 +71,3 @@
 - [Fantasy art](https://www.pinterest.co.uk/FantasyPicsInc/pathfinder-dd-dnd-35-5e-5th-ed-fantasy-d20-pfrpg-r/)
 - [Reddit character art](https://www.reddit.com/r/characterdrawing)
 
-# Organisation
-- [Fantasy card generator](https://crobi.github.io/rpg-cards/generator/generate.html)
-
-## Blogs
-- [The monsters know](https://www.themonstersknow.com/)
-- [Sly Flourish](https://slyflourish.com/)
-
-## YouTube
-- [WASD20](https://www.youtube.com/channel/UCQOmmyopiTzH9dlThm8hbwQ)
-- [Matthew Colville's Running the game](https://www.youtube.com/user/mcolville)
