@@ -23,6 +23,7 @@ Icon|Meaning
   * [Generating / creating maps](#generating--creating-maps)
   * [Generating shops / towns / characters](#generating-shops--towns--characters)
   * [Utilities](#utilities)
+  * [Minor generators](#minor-generators)
 * [Battle / encounter maps](#battle--encounter-maps)
 * [Running the game](#running-the-game)
   * [Remote play](#remote-play)
@@ -59,6 +60,21 @@ Icon|Meaning
 * [Statblock builder](https://tetra-cube.com/dnd/dnd-statblock.html) - :dragon: A DnD custom monster stat block generator in the style of the source books.
 * [Character generator](https://tetra-cube.com/dnd/dnd-char-gen.html) - :game_die: :dragon: Generates random DnD 5e characters from the options in the sourcebooks with character art.
 * [Fantasy card generator](https://crobi.github.io/rpg-cards) - [:unlock:](https://github.com/crobi/rpg-cards) A tool for generating printable cards in easy to read formats for spells, monster stats, etc.
+* [Fantasy calendar](https://app.fantasy-calendar.com/) - :money_with_wings: [:unlock:](https://github.com/fantasycalendar/Fantasy-Calendar) Create a detailed calendar and track time with a nice interface.
+* [Perchance](https://perchance.org/welcome) - Create your own random generators.
+
+### Minor generators
+* [Ancient quests](http://ancientquests.com/) - Short written descriptions for a number of things: worlds, rooms, paintings, factions, history, items, effects, etc.
+* [Holiday generator](http://chaoticshiny.com/holidaygen.php) - A description of a certain holiday including the time of year and historical significance.
+* [Job board genertor](https://www.ionzone.com/rpg/random-job-posting.php) - A graphical job board with fun little quest ideas.
+* [Law generator](https://www.rangen.co.uk/world/lawgen.php) - A random list of potentially legal and illegal things along with punishments.
+* [Spell book generator](https://5emagic.shop/spellbook/generate) - Generate a random level appropriate spell book.
+* [Party group name generator](https://www.chaosgen.com/fantasy/party-name) - Because sometimes it's hard coming up with a good name.
+* [Random book generator](https://www.dndspeak.com/2019/06/11/random-book-generator/) - A random book title and synopsis.
+* [Tavern generator](https://www.herebetaverns.com/tavern-generator) - Random taverns with floorplan, menu, and staff.
+* [Not another tavern generator](https://thecoppersanctum.github.io/thecoppersanctum/taverns.html) - More detailed tavern with some settings to tweak.
+* [Trap generator](https://www.5thdnd.com/dungeon-trap) - Imaginative and clever trap ideas.
+* [Constellation generator](https://www.darkestofnights.com/gen_cons.php) - Generates constellation with image and star names.
 
 ## Battle / encounter maps
 * [Dungeondraft](https://dungeondraft.net/) - :moneybag: :computer: A dungeon / encounter builder with customisable assets.
@@ -87,3 +103,5 @@ Icon|Meaning
 * [Kobold fight club](https://kobold.club/fight/#/encounter-builder) - :game_die: :dragon: [:unlock:](https://github.com/Asmor/5e-monsters) A DnD 5e encounter builder.
 * [Improved initiative](https://www.improved-initiative.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/improvedinitiative) :dragon: A DnD 5e initiative tracker.
 * [DnD Beyond](https://www.dndbeyond.com/) - :money_with_wings: :dragon: The official DnD character creation and management tool.
+* [Printable heroes](https://printableheroes.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/PrintableHeroes) A collection of filterable tokens that can be printed for tabletop encounters.
+* [Paper forge](https://www.patreon.com/paperforge/posts) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/paperforge/posts) A subscription of token artwork for online play or printing.
