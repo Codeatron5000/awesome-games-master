@@ -26,6 +26,7 @@ Icon|Meaning
 * [Battle / encounter maps](#battle--encounter-maps)
 * [Running the game](#running-the-game)
   * [Remote play](#remote-play)
+  * [Audio](#audio)
   * [Encounter planning / running](#encounter-planning--running)
 
 
@@ -77,6 +78,10 @@ Icon|Meaning
 * [Roll20](https://roll20.net/) - :money_with_wings: A popular role playing platform with lots of documentation.
 > * [Mythic table](https://www.mythictable.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/mythictable) :computer: [:unlock:](https://gitlab.com/mythicteam/mythictable/) Still in development open source platform.
 * [Astral Tabletop](https://www.astraltabletop.com/) - :money_with_wings: An online platform with built in maps and assets.
+
+### Audio
+* [Syrinscape](https://syrinscape.com/) - :moneybag: :money_with_wings: :computer: A sound system application that allows dynamic layering of different sounds.
+* [Tabletop Audio](https://tabletopaudio.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/tabletopaudio) A library of 10 minute soundtracks for different ambiences and sound effects.
 
 ### Encounter planning / running
 * [Kobold fight club](https://kobold.club/fight/#/encounter-builder) - :game_die: :dragon: [:unlock:](https://github.com/Asmor/5e-monsters) A DnD 5e encounter builder.
