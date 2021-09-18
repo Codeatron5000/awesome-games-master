@@ -78,6 +78,7 @@ Icon|Meaning
 
 ## Battle / encounter maps
 * [Dungeondraft](https://dungeondraft.net/) - :moneybag: :computer: A dungeon / encounter builder with customisable assets.
+* [DungeonFog](https://www.dungeonfog.com/) - 💸 An online encounter map builder and partial vtt.
 * [Dungeon generator](https://dungen.app/dungen/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/DungeonChannel) :game_die: Generates random dungeons with some customization.
 * [Dungeon scrawl](https://dungeonscrawl.com/) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/bePatron?u=35362025) Easy to use tool for building simple maps.
 * [MapForge](https://www.mapforge-software.com) - [![Patreon](/images/patreon.svg)](https://www.patreon.com/heruca) :moneybag: :computer: Software for creating dungeons with lots of add-ons and other assets.
